@@ -7,7 +7,7 @@
   "private": true,
   "scripts": {
     "dev": "quasar dev",
-    "build": "quasar build",
+    "build:spa": "quasar build",
     "build:pwa": "quasar build -m pwa",
     "lint": "eslint --ext .js,.ts,.vue ./"
   },
